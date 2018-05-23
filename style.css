@@ -61,7 +61,7 @@ body {
 .hover li h2 {
 	position: absolute;
 	top: 187px;
-	color: #fff;
+	color: #FFFFFFFF;
 	text-transform: uppercase;
 	font-size: 25px;
 	z-index: 1;
